@@ -1,7 +1,7 @@
 # Week 03
 
 ## Artists & Projects
-+ [Sol Lewitt]()
++ [Sol Lewitt](http://massmoca.org/sol-lewitt/)
 
 # Unity Lab
 + Scripting
